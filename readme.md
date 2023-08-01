@@ -18,7 +18,7 @@ Conversor de Divisas es una aplicación Java que permite convertir entre diferen
 
 ## Captura de pantalla
 
-![Screenshot]()
+![Screenshot](https://github.com/keriz-rh/ConversorDivisas_Java/blob/main/conversor.png)
 
 ## Cómo utilizar la aplicación
 
