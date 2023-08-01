@@ -1,5 +1,3 @@
-Claro, aquí tienes la documentación en formato para un README de GitHub:
-
 # Conversor de Divisas - Aplicación de conversión de monedas
 
 Conversor de Divisas es una aplicación Java que permite convertir entre diferentes monedas utilizando una interfaz gráfica de usuario (GUI) basada en Swing. El usuario puede ingresar un valor numérico en un JTextField y seleccionar una moneda de un JComboBox. Luego, al hacer clic en el botón "Convertir", se realiza la conversión del valor ingresado a la moneda seleccionada y se muestra el resultado redondeado en un JLabel.
